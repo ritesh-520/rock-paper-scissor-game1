@@ -12,13 +12,13 @@ button{
     border-color:black;
     border-style:solid;
 }
-.rock button{
+.ROCK button{
     background-color: red;
 }
-.paper button{
+.PAPER button{
     background-color: lightblue;
 }
-.scissor button{
+.SCISSOR button{
     background-color: pink;
 }
 button:active{
